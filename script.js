@@ -36,3 +36,5 @@ searchInput.addEventListener("input", function () {
 
     requestApi(searchTerm);
 });
+
+//comentário
